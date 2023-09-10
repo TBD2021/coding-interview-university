@@ -54,6 +54,8 @@
 - [Afrikaans](https://github.com/jwasham/coding-interview-university/issues/1164)
 </details>
 
+<details>
+<summary>What is it?</summary>	
 <div align="center">
 	<hr />
     <p>
@@ -80,7 +82,8 @@ There is a lot to learn in a university Computer Science program, but only knowi
 For a complete CS self-taught program, the resources for my study plan have been included in Kamran Ahmed's Computer Science Roadmap: https://roadmap.sh/computer-science
 
 ---
-
+</details>
+	
 ## Table of Contents
 
 ### The Study Plan
@@ -205,6 +208,8 @@ For a complete CS self-taught program, the resources for my study plan have been
 - [Papers](#papers)
 
 ---
+<details>
+<summary>The Study Plan-Part1</summary>
 
 ## Why use it?
 
@@ -516,6 +521,8 @@ Gets messy quick. **I use a pencil and eraser.**
 ![my sofa whiteboard](https://d3j2pkmjtin6ou.cloudfront.net/art_board_sm_2.jpg)
 
 **Coding question practice is not about memorizing answers to programming problems.**
+
+</details>
 
 ## Coding Problems
 
