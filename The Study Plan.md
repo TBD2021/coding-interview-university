@@ -66,3 +66,20 @@ There is a lot to learn in a university Computer Science program, but only knowi
 For a complete CS self-taught program, the resources for my study plan have been included in Kamran Ahmed's Computer Science Roadmap: https://roadmap.sh/computer-science
 
 ---
+
+# The Study Plan
+
+- [What is it?](#what-is-it)
+- [Why use it?](#why-use-it)
+- [How to use it](#how-to-use-it)
+- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+- [A Note About Video Resources](#a-note-about-video-resources)
+- [Choose a Programming Language](#choose-a-programming-language)
+- [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
+- [Interview Prep Books](#interview-prep-books)
+- [Don't Make My Mistakes](#dont-make-my-mistakes)
+- [What you Won't See Covered](#what-you-wont-see-covered)
+- [The Daily Plan](#the-daily-plan)
+- [Coding Question Practice](#coding-question-practice)
+- [Coding Problems](#coding-problems)
+
