@@ -17,7 +17,7 @@
 	
 ## Table of Contents
 
-### [The Study Plan](The_Study_Plan.md)
+### [The Study Plan](The Study Plan.md)
 
 ### Topics of Study
 
